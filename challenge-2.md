@@ -10,7 +10,7 @@ For this challenge, you are required to create a frontend web page that displays
 - Sort the list of books by title or author in ascending or descending order.
 - Allow users to click on a book to view more details on a separate book detail page.
 
-You may use a frontend library or framework of your choice, such as React, to help with presentation. However, the logic should be implemented using your own custom code (e.g. don't integrate a library that handles the filtering use standard js). The CSS styling should be done yourself without relying on frameworks or libraries like Bootstrap or Tailwind, you can use either css or scss.
+You may use a frontend library or framework of your choice, such as React, to help with presentation. However, the logic should be implemented using your own custom code (e.g. don't integrate additional libraries that handles the filtering use standard js or standard React api's). The CSS styling should be done yourself without relying on frameworks or libraries like Bootstrap or Tailwind, you can use either css or scss.
 
 To retrieve the cover images for the books, you can use the Open Library Covers API or Google Books API. Both APIs provide book cover images that can be accessed using the book's ISBN or identifier.
 

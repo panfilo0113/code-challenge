@@ -25,7 +25,13 @@ Use only one of these services, if the cover image is not available then display
 For additional bonus points you can attempt any of the following optional advanced challenges:
 
 1. Implement pagination to display the books in smaller chunks (e.g. 5 per page).
-2. Implement the frontend using Next.js and link the books through to a book detail page.
-3. Allow users to sort books by publication date.
-4. Add a search bar that allows users to search for books by title, author, or publisher.
-5. Implement unit tests for your frontend code.
+
+2. Implement the frontend using Next.js
+
+3. Use the Open Library API or Google Books API to obtain additional details to obtain additional information to display on the detail page.
+
+4. Allow users to sort books by publication date.
+
+5. Add a search bar that allows users to search for books by title, author, or publisher.
+
+6. Implement unit tests for your frontend code.

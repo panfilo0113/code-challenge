@@ -20,7 +20,7 @@ To retrieve the cover images for the books, you can use the Open Library Covers 
 
 Use only one of these services, if the cover image is not available then display a fallback image.
 
-## Optional Advanced Challenge
+## Optional: Advanced Frontend Requirements
 
 For additional bonus points you can attempt any of the following optional advanced challenges:
 

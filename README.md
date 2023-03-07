@@ -1,6 +1,6 @@
 # Kinsta Web Developer Code Challenge
 
-This code challenge is designed to assess a candidate's skills in PHP and frontend development. The challenge is divided into two sections: a PHP challenge and a Frontend challenge, designed to evaluate the candidate's skills in each of these areas.
+This code challenge is designed to assess a candidate's skills in PHP and frontend development. The challenge is divided into two sections: a PHP Development challenge and a Frontend Development challenge.
 
 ## Challenge 1: PHP Development
 

@@ -13,7 +13,7 @@ In this challenge, candidates will create a PHP class to interact with a list of
 
 ## Challenge 2: Frontend Development
 
-In this challenge, candidates will create a frontend application that interacts with the list of books from Challenge 1. The frontend should allow users to view the list of books, add new books, update existing books, and delete books.
+In this challenge, candidates will create a frontend application that interacts with the list of books from Challenge 1. The frontend should allow users to view the list of books, add new books, search and filter books.
 
 ### Instruction & Files
 

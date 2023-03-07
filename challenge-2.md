@@ -2,7 +2,7 @@
 
 For this challenge, you are required to create a frontend web page that displays the list of books from the JSON file provided in Challenge 1. The web page should meet the following requirements:
 
-- Display the list of books in a grid format (4 books per row).
+- Display the list of books in a grid format (3 to 5 books per row).
 - Use semantic HTML to structure the content.
 - Display the cover image for each book, (you can retrieve covers from the Open Library Covers API or Google Books API.
 - If a book cover image is not available, display a fallback image.
@@ -24,16 +24,18 @@ Use only one of these services, if the cover image is not available then display
 
 If you're up for an additional challenge to earn some bonus points you may like to attempt 1 or more of the following optional advanced challenges:
 
-1. Implement pagination to display the books in smaller chunks (e.g. 5 per page).
+1. Make the CSS responsive for optimised display on different screen sizes
 
-2. Implement the frontend using Next.js
+2. Implement pagination to display the books in smaller chunks (e.g. 5 or 10 per page).
 
-3. Use the Open Library API or Google Books API to obtain additional details to obtain additional information to display on the detail page.
+3. Implement the frontend using Next.js
 
-4. Allow users to sort books by publication date.
+4. Use the Open Library API or Google Books API to obtain additional details to obtain additional information to display on the detail page.
 
-5. Add a search bar that allows users to search for books by title, author, or publisher.
+5. Allow users to sort books by publication date.
 
-6. Advanced: Create a feature to allow visitors to add books to a wishlist for later.
+6. Add a search bar that allows users to search for books by title, author, or publisher.
 
-7. Advanced: Implement unit tests for your frontend code.
+7. Advanced: Create a feature to allow visitors to add books to a wishlist for later.
+
+8. Advanced: Implement unit tests for your frontend code.

@@ -20,9 +20,9 @@ To retrieve the cover images for the books, you can use the Open Library Covers 
 
 Use only one of these services, if the cover image is not available then display a fallback image.
 
-## Optional: Advanced Frontend Requirements
+## Optional: Advanced Frontend Functionality
 
-For additional bonus points you can attempt any of the following optional advanced challenges:
+If you're up for an additional challenge to earn some bonus points you may like to attempt 1 or more of the following optional advanced challenges:
 
 1. Implement pagination to display the books in smaller chunks (e.g. 5 per page).
 
@@ -34,4 +34,6 @@ For additional bonus points you can attempt any of the following optional advanc
 
 5. Add a search bar that allows users to search for books by title, author, or publisher.
 
-6. Implement unit tests for your frontend code.
+6. Advanced: Create a feature to allow visitors to add books to a wishlist for later.
+
+7. Advanced: Implement unit tests for your frontend code.

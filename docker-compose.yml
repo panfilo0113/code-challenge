@@ -8,7 +8,7 @@ services:
       - '80:80'
     volumes:
       - ./src:/var/www/html/
-    command: ['php', '-S', '0.0.0.0:80', '-t', '/var/www/html/', '-d', 'display_errors=1', '-d', 'error_reporting=E_ALL', '-d', 'log_errors=0', '-d', 'html_errors=0', '-d', 'variables_order=EGPCS', '-d', 'output_buffering=0']
+    command: ['php', '-S', '0.0.0.0:80', '-t', '/var/www/html/', '-d', 'html_errors=0', '-d', 'variables_order=EGPCS', '-d', 'output_buffering=0']
   db:
     image: mariadb:latest
     ports:

@@ -6,13 +6,7 @@ This code challenge is designed to assess a candidate's skills in PHP and fronte
 
 The code challenge is divided into two sections: a PHP Development challenge and a Frontend Development challenge.
 
-Each challenge has a set of core requirements and a set of bonus or optional requirements.
-
-Candidates are expected to complete the core requirements of each challenge.
-
-We ask that you complete the core requirements first and then move on to the optional bonus requirements as time allows.
-
-The bonus requirements are not required to complete the challenge but are there to give candidates an opportunity to showcase their skills and creativity. You may choose to complete as many or as few of the bonus requirements as you like.
+Each challenge has a set of core requirements and a set of bonus or optional requirements. Candidates are expected to complete the core requirements of each challenge. We ask that you complete the core requirements first and then move on to the optional bonus requirements as time allows. The bonus requirements are not required to complete the challenge but are there to give candidates an opportunity to showcase their skills and creativity. You may choose to complete as many or as few of the bonus requirements as you like.
 
 ### Challenge 1: PHP Development
 

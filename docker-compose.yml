@@ -1,9 +1,26 @@
 version: '3.8'
 services:
   web:
-    image: php:8.1-cli
+    build:
+      context: .
+      dockerfile: Dockerfile
     ports:
-      - "80:80"
+      - '80:80'
     volumes:
       - ./src:/var/www/html/
-    command: ["php", "-S", "0.0.0.0:80", "-t", "/var/www/html/", "-d", "display_errors=1", "-d", "error_reporting=E_ALL", "-d", "log_errors=0", "-d", "html_errors=0", "-d", "variables_order=EGPCS", "-d", "output_buffering=0"]
+    command: ['php', '-S', '0.0.0.0:80', '-t', '/var/www/html/', '-d', 'display_errors=1', '-d', 'error_reporting=E_ALL', '-d', 'log_errors=0', '-d', 'html_errors=0', '-d', 'variables_order=EGPCS', '-d', 'output_buffering=0']
+  db:
+    image: mariadb:latest
+    ports:
+      - '3306:3306'
+    environment:
+        MYSQL_ROOT_PASSWORD: 'books'
+        MYSQL_ROOT_HOST: '%'
+        MYSQL_DATABASE: 'barnes-and-novel'
+        MYSQL_USER: 'books'
+        MYSQL_PASSWORD: 'books'
+        MYSQL_ALLOW_EMPTY_PASSWORD: 'yes'
+    volumes:
+        - 'db-data:/var/lib/mysql'
+volumes:
+    db-data:

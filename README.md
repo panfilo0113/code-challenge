@@ -19,7 +19,9 @@ In this challenge, candidates will create a PHP class to interact with a list of
 
 ### Challenge 2: Frontend Development
 
-In this challenge, candidates will create a frontend application that interacts with the list of books from Challenge 1. The frontend should allow users to view the list of books, add new books, search and filter books.
+In this challenge, candidates will create a frontend application that interacts with the list of books from Challenge 1. The frontend should allow users to view the list of books, add new books, search and filter books. 
+
+This challenge has some specific tasks where we ask candidates not to use third-party libraries. Outside of these specific requirements, candidates are free to use any third-party libraries or frameworks they like. It would be helpful to include a reason for choosing a specific library or framework in the submission and candidates will be asked about their choices during the interview process.
 
 A [Design Mockup](https://www.figma.com/file/9jMci6xwgORWWgAEBeXTnl/BookzRUs-Mockup?node-id=0%3A1&t=W4BIRXDOoLRu3oFM-1) is available to assist with the implementation of the frontend challenge. Although we would appreciate seeing candidates implement as much of the design as possible, we recognize that time is a limitation. Therefore, we request that candidates first focus on the design elements that align with the core requirements of the challenge and then gradually improve the UI as time permits. We do not require candidates to change the design, however they are free to make adjustments to the UI implementation to ensure things like accessibility and mobile responsiveness.
 
@@ -31,7 +33,9 @@ A [Design Mockup](https://www.figma.com/file/9jMci6xwgORWWgAEBeXTnl/BookzRUs-Moc
 
 ## Submission
 
-Candidates can submit their solutions by uploading a zip file of their code or by creating a **private repository** on GitHub and inviting the hiring team to access it. The submission should include all the necessary files and instructions on how to run the code.
+Candidates should submit their solution by creating a **private repository** on GitHub and inviting the hiring team to access it. 
+
+The submission should include all the necessary files and instructions on how to run the code. A Dockerfile has been provided to assist with the setup of the environment. Candidates are free to adjust the Dockerfile or use a different method provided instructions a clear on how to run the solution.
 
 Please keep in mind that candidates will be assessed on their understanding of their submissions during the interview process. They should be prepared to walk through their solution with the hiring team and be able to answer any questions about decisions they made on the implementation.
 

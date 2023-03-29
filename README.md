@@ -33,7 +33,7 @@ A [Design Mockup](https://www.figma.com/file/9jMci6xwgORWWgAEBeXTnl/BookzRUs-Moc
 
 ## Submission
 
-Candidates should submit their solution by creating a **private repository** on GitHub and inviting the hiring team to access it. 
+Candidates should submit their solution by creating a **private repository** on GitHub and inviting the hiring team to access it, then emailing the hiring team with a link to the repository.
 
 The submission should include all the necessary files and instructions on how to run the code. A Dockerfile has been provided to assist with the setup of the environment. Candidates are free to adjust the Dockerfile or use a different method provided instructions a clear on how to run the solution.
 

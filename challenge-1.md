@@ -1,4 +1,4 @@
-# Challenge 1: PHP Development
+# Challenge 1 (PHP): Book Inventory
 
 Implement a `Book` class that will represent a book in a library application. The `Book` class should have the following properties:
 

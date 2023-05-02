@@ -1,4 +1,4 @@
-# Challenge 2: Frontend Development (HTML/CSS & JS)
+# Challenge 2: Frontend (HTML/CSS & JS)
 
 For this challenge, you are required to create a frontend web page that displays the list of books from the JSON file provided in Challenge 1. The web page should meet the following requirements:
 
